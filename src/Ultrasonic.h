@@ -31,7 +31,7 @@
 #ifndef Ultrasonic_H
 #define Ultrasonic_H
 
-#include "Arduino.h"
+#include "Particle.h"
 
 class Ultrasonic
 {
